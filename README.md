@@ -10,7 +10,7 @@
 * I'm a Senior Staff Engineer at [Discotech](https://app.discotech.me/) where I built and maintain the [iOS app](https://apps.apple.com/us/app/discotech-nightlife-vip-bottle/id688089181) (4.9 stars) and contribute to other areas of the platform. 
 * I founded and built [Hollywood Nights](https://hollywoodnights.app/), a service for streaming classic movies. Web, mobile, back-end, API, and more... _everything_ was built by me.
 
-## You'll find here
+## What you'll find here
 
 ### iOS DEVELOPMENT
 
