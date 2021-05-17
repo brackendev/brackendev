@@ -1,5 +1,10 @@
 # Hi, I'm Bracken
 
+<a href="https://twitter.com/brackendev"><img height="30" src="https://github.com/brackendev/brackendev/blob/main/images/twitter-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/brackenspencer/"><img height="30" src="https://github.com/brackendev/brackendev/blob/main/images/linkedin-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/brackendev"><img height="30" src="https://github.com/brackendev/brackendev/blob/main/images/github-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="mailto:me@bracken.dev"><img height="30" src="https://github.com/brackendev/brackendev/blob/main/images/envelope-square-solid.svg"></a>&nbsp;&nbsp;
+
 ## What I'm currently doing
 
 * I'm a Senior Staff Engineer at [Discotech](https://app.discotech.me/) where I built and maintain the [iOS app](https://apps.apple.com/us/app/discotech-nightlife-vip-bottle/id688089181) (4.9 stars) and contribute to other areas of the platform. 
@@ -56,13 +61,6 @@
 * [Interact](https://github.com/brackendev/TwitterSDK-Pharo) with the Twitter API, [objects to work](https://github.com/brackendev/RSSTools-Pharo) with RSS feeds and the Fever API, [create and validate](https://gist.github.com/brackendev/303027dbcf5db0148397a12b836b8d73) JSON Web Tokens, and [sign URLs](https://github.com/brackendev/AmazonPAARequester-Pharo) for the Amazon Product Advertising API... all within the live Pharo environment.
 
 * [The archive for aspect-oriented programming](https://github.com/brackendev/AspectCocoa) with Cocoa and Objective-C, [source code](https://github.com/brackendev/BankAccountDemo-Self) for a Self (the experimental test system for language design) demo by Chris Double, and [more](https://github.com/brackendev?tab=repositories&type=source).
-
-## Contact
-
-<a href="https://twitter.com/brackendev"><img height="30" src="https://github.com/brackendev/brackendev/blob/main/images/twitter-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/brackenspencer/"><img height="30" src="https://github.com/brackendev/brackendev/blob/main/images/linkedin-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/brackendev"><img height="30" src="https://github.com/brackendev/brackendev/blob/main/images/github-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="mailto:me@bracken.dev"><img height="30" src="https://github.com/brackendev/brackendev/blob/main/images/envelope-square-solid.svg"></a>&nbsp;&nbsp;
 
 ---
 
