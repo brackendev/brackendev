@@ -13,7 +13,7 @@
 * Run Swift with the Pharo "Swift Playground," interoperate with Pharo, inspect output and Swift ASTs, [run asynchronous code](../posts/swiftplayground-pharo-async/).
 
 #### [Swift code runner for the web](https://github.com/brackendev/SeasideSwift)
-* Similar commercial implementations are used at [Repl.it](https://repl.it/) and [OnlineSwiftPlayground.run](http://onlineswiftplayground.run/).
+* Similar commercial implementations are used at Repl.it and OnlineSwiftPlayground.run.
 
 #### [Objective-C NSNotificationCenter observer RAII](https://gist.github.com/brackendev/45ba13ca00aaf9616f778b5254b4c101)
 * Easily unregister block-based NSNotificationCenter observers using *Resource acquisition is initialization*.
@@ -32,7 +32,7 @@
 ### MACHINE LEARNING, AI, CHATBOT
 
 #### [Machine learning with scikit-learn](https://github.com/brackendev/scikit-learn-Hy)
-* An introduction to [scikit-learn](https://scikit-learn.org/) (machine learning in Python) and Hy (a Lisp dialect embedded in Python).
+* An introduction to scikit-learn (machine learning in Python) and Hy (a Lisp dialect embedded in Python).
 
 #### [Software visualization of Project Malmo (AI research)](https://twitter.com/brackendev/status/1206776380844838914)
 * Software visualization of Project Malmo, Microsoft's open source AI research platform.
