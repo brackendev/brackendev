@@ -1,9 +1,8 @@
 # Hi, I'm Bracken
 
-<a href="https://twitter.com/brackendev"><img height="30" src="https://github.com/brackendev/brackendev/blob/main/images/twitter-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/brackenspencer/"><img height="30" src="https://github.com/brackendev/brackendev/blob/main/images/linkedin-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/brackendev"><img height="30" src="https://github.com/brackendev/brackendev/blob/main/images/github-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="mailto:me@bracken.dev"><img height="30" src="https://github.com/brackendev/brackendev/blob/main/images/envelope-square-solid.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/brackendev">Twitter</a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/brackenspencer/">LinkedIn</a>&nbsp;&nbsp;
+<a href="mailto:me@bracken.dev">Email</a>&nbsp;&nbsp;
 
 ## What I'm currently doing
 
