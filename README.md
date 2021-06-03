@@ -6,8 +6,8 @@
 
 ## What I'm currently doing
 
-* I'm a Senior Staff Engineer at [Discotech](https://app.discotech.me/) where I built and maintain the [iOS app](https://apps.apple.com/us/app/discotech-nightlife-vip-bottle/id688089181) (4.9 stars) and contribute to other areas of the platform. 
-* I founded and built [Hollywood Nights](https://hollywoodnights.app/), a service for streaming classic movies. Web, mobile, back-end, API, and more... _everything_ was built by me.
+* I'm a Senior Staff Engineer at [Discotech](https://app.discotech.me/) where I work hand-in-hand with the CxO team to deliver the world's #1 nightlife platform.
+* I founded and built [Hollywood Nights](https://hollywoodnights.app/), while the world was watching Netflix, I built an indie Netflix. By myself. Business. Cross-platform. Web. Mobile. API. Everything.
 
 ## What you'll find here
 
