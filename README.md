@@ -50,7 +50,7 @@
 * Browse, create, edit, and fork Gists via the Gist Browser, create Gists from Playgrounds, Gist Press support, and more.
 
 #### Gravatar demos for multiple languages
-* Something more than "Hello World" examples to get acquainted with new languages. Included are [Clojure](https://github.com/brackendev/GravatarDemo-Clojure), [F#](https://github.com/brackendev/GravatarDemo-FSharp), [Newspeak](https://github.com/brackendev/GravatarDemo-Newspeak), [Pharo](https://github.com/brackendev/GravatarDemo-Pharo), [Racket](https://github.com/brackendev/GravatarDemo-Racket), and [Squeak](https://github.com/brackendev/GravatarDemo-Squeak).
+* Something more than "Hello World" examples for developers to get acquainted with other languages. Included are [Clojure](https://github.com/brackendev/GravatarDemo-Clojure), [F#](https://github.com/brackendev/GravatarDemo-FSharp), [Newspeak](https://github.com/brackendev/GravatarDemo-Newspeak), [Pharo](https://github.com/brackendev/GravatarDemo-Pharo), [Racket](https://github.com/brackendev/GravatarDemo-Racket), and [Squeak](https://github.com/brackendev/GravatarDemo-Squeak).
 
 #### [Bootstrapping F# projects on UNIX](https://gist.github.com/brackendev/17cb61112493e4bc906e0d6f7d3ee11b)
 * Bootstrap an F# Visual Studio solution on UNIX (with console, library, and test projects).
