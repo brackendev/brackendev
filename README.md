@@ -57,6 +57,8 @@
 
 ### AND MORE!
 
+* A [markdown to HTML (and back again)](https://github.com/brackendev/markdown-html) app using ClojureSript and React. [Try it out!](https://markdown-html.netlify.app/)
+
 * [Interact](https://github.com/brackendev/TwitterSDK-Pharo) with the Twitter API, [objects to work](https://github.com/brackendev/RSSTools-Pharo) with RSS feeds and the Fever API, [create and validate](https://gist.github.com/brackendev/303027dbcf5db0148397a12b836b8d73) JSON Web Tokens, and [sign URLs](https://github.com/brackendev/AmazonPAARequester-Pharo) for the Amazon Product Advertising API... all within the live Pharo environment.
 
 * [The archive for aspect-oriented programming](https://github.com/brackendev/AspectCocoa) with Cocoa and Objective-C, [source code](https://github.com/brackendev/BankAccountDemo-Self) for a Self (the experimental test system for language design) demo by Chris Double, [Common Lisp tutorials](https://github.com/brackendev/BruceBoatner-CommonLisp), and [more](https://github.com/brackendev?tab=repositories&type=source).
