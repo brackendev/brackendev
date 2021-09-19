@@ -1,8 +1,18 @@
 # Hi, I'm Bracken
 
-<a href="https://twitter.com/brackendev">Twitter</a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/brackenspencer/">LinkedIn</a>&nbsp;&nbsp;
-<a href="mailto:me@bracken.dev">Email</a>&nbsp;&nbsp;
+<p>
+  <a href="https://www.github.com/brackendev">
+    <img alt="GitHub: brackendev" src="https://img.shields.io/github/followers/brackendev?label=Follow&style=social" target="_blank" />
+  </a>
+  
+  <a href="https://www.twitter.com/brackendev">
+    <img alt="Twitter: brackendev" src="https://img.shields.io/twitter/follow/brackendev.svg?style=social" target="_blank" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/brackenspencer/">
+    <img alt="LinkedIn: Bracken Spencer" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" target="_blank" />
+  </a>
+</p>
 
 ## What I'm currently doing
 
