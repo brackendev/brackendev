@@ -14,11 +14,6 @@
   </a>
 </p>
 
-## What I'm currently doing
-
-* I'm a Senior Staff Engineer at [Discotech](https://app.discotech.me/) where I work hand-in-hand with the CxO team to deliver the world's #1 nightlife platform.
-* I founded [Hollywood Nights](https://hollywoodnights.app/). While the world was watching Netflix, I built an indie Netflix. By myself. Business. Cross-platform. Web. Mobile. API. Everything.
-
 ## What you'll find here
 
 ### iOS DEVELOPMENT
