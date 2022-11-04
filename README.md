@@ -1,5 +1,7 @@
 # Hi, I'm Bracken
 
+## I build mobile apps.
+
 <p>
   <a href="https://www.github.com/brackendev">
     <img alt="GitHub: brackendev" src="https://img.shields.io/github/followers/brackendev?label=Follow&style=social" target="_blank" />
@@ -14,12 +16,16 @@
   </a>
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=brackendev&count_private=true&show_icons=true&hide=contribs,prs,issues)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=brackendev&hide=smalltalk,self,hy,html,css&langs_count=99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## What you'll find here
 
 ### iOS DEVELOPMENT
 
 #### [Fast and powerful Xcode Playgrounds replacement](https://github.com/brackendev/SwiftPlayground-Pharo)
-* Run Swift with the Pharo "Swift Playground," interoperate with Pharo, inspect output and Swift ASTs, [run asynchronous code](../posts/swiftplayground-pharo-async/).
+* Run Swift with the Pharo "Swift Playground," interoperate with Pharo, inspect output and Swift ASTs, [run asynchronous code](https://github.com/brackendev/SwiftPlayground-Pharo#asynchronous-swift-code).
 
 #### [Swift code runner for the web](https://github.com/brackendev/SeasideSwift)
 * Similar commercial implementations are used at Repl.it and OnlineSwiftPlayground.run.
@@ -69,9 +75,3 @@
 * [Interact](https://github.com/brackendev/TwitterSDK-Pharo) with the Twitter API, [objects to work](https://github.com/brackendev/RSSTools-Pharo) with RSS feeds and the Fever API, [create and validate](https://gist.github.com/brackendev/303027dbcf5db0148397a12b836b8d73) JSON Web Tokens, and [sign URLs](https://github.com/brackendev/AmazonPAARequester-Pharo) for the Amazon Product Advertising API... all within the live Pharo environment.
 
 * The [archive for aspect-oriented programming](https://github.com/brackendev/AspectCocoa) with Cocoa and Objective-C, [source code](https://github.com/brackendev/BankAccountDemo-Self) for a Self (the experimental test system for language design) demo by Chris Double, [Common Lisp tutorials](https://github.com/brackendev/BruceBoatner-CommonLisp), and [more](https://github.com/brackendev?tab=repositories&type=source).
-
----
-
-![](https://github-readme-stats.vercel.app/api?username=brackendev&count_private=true&show_icons=true&hide=contribs,prs,issues)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=brackendev&hide=smalltalk,self,hy,html,ruby,css&langs_count=99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
