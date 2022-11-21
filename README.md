@@ -1,6 +1,6 @@
 # Hi, I'm Bracken
 
-## I build mobile apps.
+## I build software.
 
 <p>
   <a href="https://www.github.com/brackendev">
