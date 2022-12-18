@@ -4,15 +4,19 @@
 
 <p>
   <a href="https://www.github.com/brackendev">
-    <img alt="GitHub: brackendev" src="https://img.shields.io/github/followers/brackendev?label=Follow&style=social" target="_blank" />
+    <img alt="GitHub" src="https://img.shields.io/github/followers/brackendev?label=Follow&style=social" target="_blank" />
+  </a>
+
+  <a href="https://mastodon.cloud/web/accounts/109537120814235921">
+    <img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109537120814235921?domain=https%3A%2F%2Fmastodon.cloud&style=social" target="_blank" />
   </a>
   
   <a href="https://www.twitter.com/brackendev">
-    <img alt="Twitter: brackendev" src="https://img.shields.io/twitter/follow/brackendev.svg?style=social" target="_blank" />
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/brackendev.svg?style=social" target="_blank" />
   </a>
   
   <a href="https://www.linkedin.com/in/brackenspencer/">
-    <img alt="LinkedIn: Bracken Spencer" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" target="_blank" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" target="_blank" />
   </a>
 </p>
 
