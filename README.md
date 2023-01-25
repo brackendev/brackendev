@@ -20,10 +20,10 @@
   </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=brackendev&count_private=true&show_icons=true&hide=contribs,prs,issues)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=brackendev&count_private=true&show_icons=true&hide=contribs,prs,issues)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=brackendev&hide=html,css&langs_count=99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ## What you'll find here
 
 ### iOS DEVELOPMENT
