@@ -11,10 +11,10 @@
     <img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109537120814235921?domain=https%3A%2F%2Fmastodon.cloud&style=social" target="_blank" />
   </a>
   
-  <a href="https://www.twitter.com/brackendev">
+<!--  <a href="https://www.twitter.com/brackendev">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/brackendev.svg?style=social" target="_blank" />
   </a>
-  
+  -->
   <a href="https://www.linkedin.com/in/brackenspencer/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" target="_blank" />
   </a>
@@ -24,6 +24,13 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=brackendev&hide=html,css&langs_count=99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+## What I currently do
+
+As a Senior Staff Engineer at <a href="https://discotech.me">Discotech</a>, I work hand-in-hand with the founding team to build the world's #1 nightlife ticketing <a href="https://apps.apple.com/us/app/discotech-nightlife/id688089181">iOS app, 4.9 stars, 9K+ ratings</a>. The iOS app is native, Swift.
+
+While the world was watching Netflix, I built an indie Netflix -- <a href="https://hollywoodnights.app">Hollywood Nights</a>, the Premier Classic Film Service. Everything -- back-end, front-end, UI/UX, business. The back-end is Clojure, the front-end is Flutter.
+
 ## What you'll find here
 
 ### iOS DEVELOPMENT
