@@ -29,7 +29,7 @@
 
 As a Senior Staff Engineer at <a href="https://discotech.me">Discotech</a>, I work hand-in-hand with the founding team to build the world's #1 nightlife ticketing <a href="https://apps.apple.com/us/app/discotech-nightlife/id688089181">iOS app, 4.9 stars, 9K+ ratings</a>. The iOS app is native, Swift.
 
-While the world was watching Netflix, I built an indie Netflix -- <a href="https://hollywoodnights.app">Hollywood Nights</a>, the Premier Classic Film Service. Everything -- back-end, front-end, UI/UX, business. The back-end is Clojure, the front-end is Flutter.
+While the world was watching Netflix, I built an indie Netflix -- <a href="https://hollywoodnights.app">Hollywood Nights</a>, the Premier Classic Film Service. Everything -- back-end, front-end, UI/UX, business. The back-end is Clojure, the mobile apps are Flutter.
 
 ## What you'll find here
 
