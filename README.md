@@ -27,16 +27,16 @@
 
 ## What I currently do
 
-As a Senior Staff Engineer at <a href="https://discotech.me">Discotech</a>, I work hand-in-hand with the founding team to build the world's #1 nightlife ticketing <a href="https://apps.apple.com/us/app/discotech-nightlife/id688089181">iOS app, 4.9 stars, 9K+ ratings</a>. The iOS app is native, Swift.
+As the first non-founder hire <a href="https://discotech.me">Discotech</a>, I work hand-in-hand with the team to build the world's #1 nightlife <a href="https://apps.apple.com/us/app/discotech-nightlife/id688089181">iOS app, 4.9 stars, 9K+ ratings</a>. (The iOS app is native, Swift.)
 
-While the world was watching Netflix, I built an indie Netflix -- <a href="https://hollywoodnights.app">Hollywood Nights</a>, the Premier Classic Film Service. Everything -- back-end, front-end, UI/UX, business. The back-end is Clojure, the mobile apps are Flutter.
+As a side project, while the world was watching Netflix, I built an "indie Netflix," <a href="https://hollywoodnights.app">Hollywood Nights</a>, a classic movie streaming platform. Everything — back-end, front-end, UI/UX, business. (The mobile apps are Flutter, the back-end is Clojure.)
 
 ## What you'll find here
 
 ### iOS DEVELOPMENT
 
 #### [Fast and powerful Xcode Playgrounds replacement](https://github.com/brackendev/SwiftPlayground-Pharo)
-* Run Swift with the Pharo "Swift Playground," interoperate with Pharo, inspect output and Swift ASTs, [run asynchronous code](https://github.com/brackendev/SwiftPlayground-Pharo#asynchronous-swift-code).
+* Run Swift with the Pharo "Swift Playground," interoperate with the live Pharo environment, inspect output and Swift ASTs, [run asynchronous code](https://github.com/brackendev/SwiftPlayground-Pharo#asynchronous-swift-code).
 
 #### [Swift code runner for the web](https://github.com/brackendev/SeasideSwift)
 * Similar commercial implementations are used at Repl.it and OnlineSwiftPlayground.run.
