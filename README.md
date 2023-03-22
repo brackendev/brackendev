@@ -11,13 +11,16 @@
     <img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109537120814235921?domain=https%3A%2F%2Fmastodon.cloud&style=social" target="_blank" />
   </a>
   
-<!--  <a href="https://www.twitter.com/brackendev">
+  <a href="https://www.twitter.com/brackendev">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/brackendev.svg?style=social" target="_blank" />
   </a>
-  -->
+  
   <a href="https://www.linkedin.com/in/brackenspencer/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" target="_blank" />
   </a>
+  
+  <a href="https://www.imdb.com/name/nm5532342/">
+    <img alt="IMDb" src="https://m.media-amazon.com/images/G/01/IMDb/brand/guidelines/imdb/IMDb_Logo_Rectangle_Gold._CB443386186_.png" target="_blank" height="20px" />
 </p>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=brackendev&count_private=true&show_icons=true&hide=contribs,prs,issues)
