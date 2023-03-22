@@ -63,8 +63,8 @@ As a side project, while the world was watching Netflix, I built an "indie Netfl
 #### [Machine learning with scikit-learn](https://github.com/brackendev/scikit-learn-Hy)
 * An introduction to scikit-learn (machine learning in Python) and Hy (a Lisp dialect embedded in Python).
 
-#### [Software visualization of Project Malmo (AI research)](https://twitter.com/brackendev/status/1206776380844838914)
-* Software visualization of Project Malmo, Microsoft's open source AI research platform.
+#### [Software visualization of Project Malmo](https://twitter.com/brackendev/status/1206776380844838914)
+* Software visualization of Project Malmo (with OpenAI), a platform for AI experimentation and research built on top of Minecraft.
 
 #### [Another ELIZA chatbot](https://github.com/brackendev/ELIZA-Smalltalk)
 * (The first?) Smalltalk implementation of ELIZA, an early natural language processing computer program. There are similar implementations for Go and Swift.
