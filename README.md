@@ -67,7 +67,7 @@ As a side project, while the world was watching Netflix, I built an "indie Netfl
 * Software visualization of Project Malmo (with OpenAI), a platform for AI experimentation and research built on top of Minecraft.
 
 #### [Another ELIZA chatbot](https://github.com/brackendev/ELIZA-Smalltalk)
-* (The first?) Smalltalk implementation of ELIZA, an early natural language processing computer program. There are similar implementations for Go and Swift.
+* Smalltalk implementation of ELIZA, an early natural language processing computer program. There are similar implementations for Go and Swift.
 
 ### DEVELOPMENT TOOLS & LEARNING
 
