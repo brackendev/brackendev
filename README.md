@@ -1,12 +1,10 @@
-<div align="center">
-  <a href="https://github.com/brackendev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brackendev&count_private=true&show_icons=true&hide=contribs,prs,issues&theme=dracula" />
-  </a>
-</div>
+<a href="https://github.com/brackendev">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=brackendev&count_private=true&show_icons=true&hide=contribs,prs,issues&theme=dracula" />
+</a>
 
 # Hi, I'm Bracken
 
-## I build software.
+## Mobile App Developer. Passionate Software Creator
 
 <p>
   <a href="https://www.github.com/brackendev">
@@ -74,6 +72,8 @@ As a side project, while the world was watching Netflix, I built an "indie Netfl
 
 #### [Another ELIZA chatbot](https://github.com/brackendev/ELIZA-Smalltalk)
 * Smalltalk implementation of ELIZA, an early natural language processing computer program. There are similar implementations for Go and Swift.
+  
+#### [THX 1138: OMM 0000](https://github.com/brackendev/OMM_0000)
 
 ### DEVELOPMENT TOOLS & LEARNING
 
