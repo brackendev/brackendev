@@ -63,6 +63,9 @@ As a side project, while the world was watching Netflix, I built an "indie Netfl
 #### [Need to support iOS 4? 😆](https://github.com/brackendev/JSONUtilityExample)
 
 ### MACHINE LEARNING, AI, CHATBOT
+  
+#### [A powerful OpenAI playground](https://github.com/brackendev/OpenAI-Pharo)
+* Interact with the OpenAI programatically or via GUIs for chatbots and image generation.
 
 #### [Machine learning with scikit-learn](https://github.com/brackendev/scikit-learn-Hy)
 * An introduction to scikit-learn (machine learning in Python) and Hy (a Lisp dialect embedded in Python).
