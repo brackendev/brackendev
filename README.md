@@ -74,7 +74,7 @@ As a side project, while the world was watching Netflix, I built an "indie Netfl
 * Software visualization of Project Malmo (with OpenAI), a platform for AI experimentation and research built on top of Minecraft.
 
 #### [Another ELIZA chatbot](https://github.com/brackendev/ELIZA-Smalltalk)
-* **Smalltalk** implementation of ELIZA, an early natural language processing computer program. There are similar implementations for Go and Swift.
+* **Smalltalk** implementation of ELIZA, an early natural language processing computer program. There are similar implementations for **Go** and **Swift**.
   
 #### [THX 1138: OMM 0000](https://github.com/brackendev/OMM_0000)
 
@@ -93,7 +93,7 @@ As a side project, while the world was watching Netflix, I built an "indie Netfl
 
 * A [cryptocurrency implementation in Racket](https://github.com/brackendev/Blockchain-Racket) with peer to peer network and smart contracts support.
 
-* A [markdown to HTML (and back again)](https://github.com/brackendev/markdown-html) app using **ClojureSript** and **React**. **[Try it out live!](https://markdown-html.netlify.app/)**
+* A [markdown to HTML (and back again)](https://github.com/brackendev/markdown-html) app using **ClojureScript** and **React**. **[Try it out live!](https://markdown-html.netlify.app/)**
 
 * [Interact](https://github.com/brackendev/TwitterSDK-Pharo) with the Twitter API, [objects to work](https://github.com/brackendev/RSSTools-Pharo) with RSS feeds and the Fever API, [create and validate](https://gist.github.com/brackendev/303027dbcf5db0148397a12b836b8d73) JSON Web Tokens, and [sign URLs](https://github.com/brackendev/AmazonPAARequester-Pharo) for the Amazon Product Advertising API... all within the live **Pharo** environment.
 
