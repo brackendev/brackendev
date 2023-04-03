@@ -64,8 +64,8 @@ As a side project, while the world was watching Netflix, I built an "indie Netfl
 
 ### MACHINE LEARNING, AI, CHATBOT
   
-#### [A powerful OpenAI playground](https://github.com/brackendev/OpenAI-Pharo)
-* Interact with the OpenAI programatically or via GUIs for chatbots and image generation.
+#### [A powerful OpenAI playground for pro-users and developers](https://github.com/brackendev/OpenAI-Pharo)
+* Interact with unlimited chatbots, generate images, automatically update class comments with a generated [Class Responsibility Collaborator](https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card) (based on the class definition and source code).
 
 #### [Machine learning with scikit-learn](https://github.com/brackendev/scikit-learn-Hy)
 * An introduction to scikit-learn (machine learning in Python) and Hy (a Lisp dialect embedded in Python).
