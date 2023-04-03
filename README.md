@@ -43,7 +43,7 @@ As a side project, while the world was watching Netflix, I built an "indie Netfl
 ### iOS DEVELOPMENT
 
 #### [Fast and powerful Xcode Playgrounds replacement](https://github.com/brackendev/SwiftPlayground-Pharo)
-* Run Swift with the Pharo "Swift Playground," interoperate with the live Pharo environment, inspect output and Swift ASTs, [run asynchronous code](https://github.com/brackendev/SwiftPlayground-Pharo#asynchronous-swift-code).
+* Run **Swift** with the **Pharo** "Swift Playground," interoperate with the live **Pharo** environment, inspect output and Swift ASTs, [run asynchronous code](https://github.com/brackendev/SwiftPlayground-Pharo#asynchronous-swift-code).
 
 #### [Swift code runner for the web](https://github.com/brackendev/SeasideSwift)
 * Similar commercial implementations are used at Repl.it and OnlineSwiftPlayground.run.
@@ -55,7 +55,7 @@ As a side project, while the world was watching Netflix, I built an "indie Netfl
 * [Swift](https://github.com/brackendev/Readability-Swift) and [Objective-C](https://github.com/brackendev/Readability-Objective-C) libraries to determine readability and comprehension difficulty. (Includes CocoaPods support.)
 
 #### iOS resolution independence examples
-* [Swift](https://github.com/brackendev/iOS-Resolution-Independence-Swift) and [Objective-C](https://github.com/brackendev/iOS-Resolution-Independence-Objective-C) examples showing how to add resolution independence and future-proof iOS projects by using vector graphics.
+* [Swift](https://github.com/brackendev/iOS-Resolution-Independence-Swift) and [Objective-C](https://github.com/brackendev/iOS-Resolution-Independence-Objective-C) examples showing how to add resolution independence and future-proof **iOS** projects by using vector graphics.
 
 #### [Deep clean Xcode projects](https://gist.github.com/brackendev/8327852e21ce5b7f480f72459faa277a)
 * Deep clean Xcode (with CocoaPods) projects. You know if you need it.
@@ -68,13 +68,13 @@ As a side project, while the world was watching Netflix, I built an "indie Netfl
 * Interact with unlimited chatbots, generate images, automatically update class comments with a generated [Class Responsibility Collaborator](https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card) (based on class definitions and source code).
 
 #### [Machine learning with scikit-learn](https://github.com/brackendev/scikit-learn-Hy)
-* An introduction to scikit-learn (machine learning in Python) and Hy (a Lisp dialect embedded in Python).
+* An introduction to scikit-learn (machine learning in **Python**) and **Hy** (a **Lisp** dialect embedded in **Python**).
 
 #### [Software visualization of Project Malmo](https://twitter.com/brackendev/status/1206776380844838914)
 * Software visualization of Project Malmo (with OpenAI), a platform for AI experimentation and research built on top of Minecraft.
 
 #### [Another ELIZA chatbot](https://github.com/brackendev/ELIZA-Smalltalk)
-* Smalltalk implementation of ELIZA, an early natural language processing computer program. There are similar implementations for Go and Swift.
+* **Smalltalk** implementation of ELIZA, an early natural language processing computer program. There are similar implementations for Go and Swift.
   
 #### [THX 1138: OMM 0000](https://github.com/brackendev/OMM_0000)
 
@@ -84,20 +84,20 @@ As a side project, while the world was watching Netflix, I built an "indie Netfl
 * Browse, create, edit, and fork Gists via the Gist Browser, create Gists from Playgrounds, Gist Press support, and more.
 
 #### Gravatar demos for multiple languages
-* Something more than "Hello World" examples for developers to get acquainted with other languages and development paradigms. Included are [Clojure](https://github.com/brackendev/GravatarDemo-Clojure), [F#](https://github.com/brackendev/GravatarDemo-FSharp), [Newspeak](https://github.com/brackendev/GravatarDemo-Newspeak), [Pharo](https://github.com/brackendev/GravatarDemo-Pharo), [Racket](https://github.com/brackendev/GravatarDemo-Racket), and [Squeak](https://github.com/brackendev/GravatarDemo-Squeak).
+* Something more than "Hello World" examples for developers to get acquainted with other languages and development paradigms. Included are **[Clojure](https://github.com/brackendev/GravatarDemo-Clojure)**, **[F#](https://github.com/brackendev/GravatarDemo-FSharp)**, **[Newspeak](https://github.com/brackendev/GravatarDemo-Newspeak)**, **[Pharo](https://github.com/brackendev/GravatarDemo-Pharo)**, **[Racket](https://github.com/brackendev/GravatarDemo-Racket)**, and **[Squeak](https://github.com/brackendev/GravatarDemo-Squeak)**.
 
 #### [Bootstrapping F# projects on UNIX](https://gist.github.com/brackendev/17cb61112493e4bc906e0d6f7d3ee11b)
-* Bootstrap an F# Visual Studio solution on UNIX (with console, library, and test projects).
+* Bootstrap an **F#** Visual Studio solution on UNIX (with console, library, and test projects).
 
 ### AND MORE!
 
 * A [cryptocurrency implementation in Racket](https://github.com/brackendev/Blockchain-Racket) with peer to peer network and smart contracts support.
 
-* A [markdown to HTML (and back again)](https://github.com/brackendev/markdown-html) app using ClojureSript and React. **[Try it out live!](https://markdown-html.netlify.app/)**
+* A [markdown to HTML (and back again)](https://github.com/brackendev/markdown-html) app using **ClojureSript** and **React**. **[Try it out live!](https://markdown-html.netlify.app/)**
 
-* [Interact](https://github.com/brackendev/TwitterSDK-Pharo) with the Twitter API, [objects to work](https://github.com/brackendev/RSSTools-Pharo) with RSS feeds and the Fever API, [create and validate](https://gist.github.com/brackendev/303027dbcf5db0148397a12b836b8d73) JSON Web Tokens, and [sign URLs](https://github.com/brackendev/AmazonPAARequester-Pharo) for the Amazon Product Advertising API... all within the live Pharo environment.
+* [Interact](https://github.com/brackendev/TwitterSDK-Pharo) with the Twitter API, [objects to work](https://github.com/brackendev/RSSTools-Pharo) with RSS feeds and the Fever API, [create and validate](https://gist.github.com/brackendev/303027dbcf5db0148397a12b836b8d73) JSON Web Tokens, and [sign URLs](https://github.com/brackendev/AmazonPAARequester-Pharo) for the Amazon Product Advertising API... all within the live **Pharo** environment.
 
-* The [archive for aspect-oriented programming](https://github.com/brackendev/AspectCocoa) with Cocoa and Objective-C.
+* The [archive for aspect-oriented programming](https://github.com/brackendev/AspectCocoa) with **Cocoa** and **Objective-C**.
 
 * [Source code](https://github.com/brackendev/BankAccountDemo-Self) for a Self (the experimental test system for language design) demo by Chris Double.
 
