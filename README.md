@@ -62,10 +62,10 @@ As a side project, while the world was watching Netflix, I built an "indie Netfl
 
 #### [Need to support iOS 4? 😆](https://github.com/brackendev/JSONUtilityExample)
 
-### MACHINE LEARNING, AI, CHATBOT
+### AI, CHATBOT, MACHINE LEARNING
   
 #### [A powerful OpenAI playground for pro-users and developers](https://github.com/brackendev/OpenAI-Pharo)
-* Interact with unlimited chatbots, generate images, automatically update class comments with a generated [Class Responsibility Collaborator](https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card) (based on the class definition and source code).
+* Interact with unlimited chatbots, generate images, automatically update class comments with a generated [Class Responsibility Collaborator](https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card) (based on class definitions and source code).
 
 #### [Machine learning with scikit-learn](https://github.com/brackendev/scikit-learn-Hy)
 * An introduction to scikit-learn (machine learning in Python) and Hy (a Lisp dialect embedded in Python).
