@@ -77,6 +77,7 @@ As a side project, while the world was watching Netflix, I built an "indie Netfl
 * **Smalltalk** implementation of ELIZA, an early natural language processing computer program. There are similar implementations for **Go** and **Swift**.
   
 #### [THX 1138: OMM 0000](https://github.com/brackendev/OMM_0000)
+* https://www.youtube.com/watch?v=U0YkPnwoYyE
 
 ### DEVELOPMENT TOOLS & LEARNING
 
