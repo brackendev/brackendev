@@ -30,7 +30,7 @@
 
 ## What I currently do
 
-As the first non-founder employee at <a href="https://discotech.me">Discotech</a>, I work hand-in-hand with the team to build the world's #1 nightlife <a href="https://apps.apple.com/us/app/discotech-nightlife/id688089181">iOS app (4.9 stars, 9K+ ratings)</a>. (The iOS app is native, **Swift**.)
+As the first non-founder employee at <a href="https://discotech.me">Discotech</a>, I work hand-in-hand with the team to build the world's #1 nightlife <a href="https://apps.apple.com/us/app/discotech-nightlife/id688089181">iOS app (4.9 stars, 10K+ ratings)</a>. (The iOS app is native, **Swift**.)
 
 As a side project, while the world was watching Netflix, I built an "indie Netflix," <a href="https://hollywoodnights.app">Hollywood Nights</a>, a classic movie streaming platform. Everything — back-end, front-end, UI/UX, business. (The mobile apps are **Flutter**, the back-end is **Clojure**.)
 
