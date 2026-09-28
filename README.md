@@ -23,7 +23,6 @@ These skill packages follow the [Agent Skills](https://agentskills.io) open stan
 | [fulcro-skills](https://github.com/brackendev/fulcro-skills) | Fulcro full-stack framework with a Pathom 3 server |
 | [biff-skills](https://github.com/brackendev/biff-skills) | Biff web framework: scaffolding, conventions, and deployment |
 | [code-lenses](https://github.com/brackendev/code-lenses) | Design lenses for review and implementation: grug brain, Tidy First?, Parse Don't Validate, and others |
-| [jsp-skills](https://github.com/brackendev/jsp-skills) | Jumpstart Pro Rails: multi-tenancy, billing, deployment, and upstream synchronization |
 
 ## Haiku Operating System
 
@@ -38,6 +37,7 @@ These skill packages follow the [Agent Skills](https://agentskills.io) open stan
 
 ## Earlier Projects
 
+- [jsp-skills](https://github.com/brackendev/jsp-skills) is an Agent Skills package for Jumpstart Pro Rails that covers multi-tenancy, billing, deployment, and upstream synchronization.
 - [SwiftPlayground-Pharo](https://github.com/brackendev/SwiftPlayground-Pharo), [OpenAI-Pharo](https://github.com/brackendev/OpenAI-Pharo), and [GistBrowser-Pharo](https://github.com/brackendev/GistBrowser-Pharo) are Pharo tools for running Swift code, working with the OpenAI API, and managing Gists.
 - [ELIZA-Smalltalk](https://github.com/brackendev/ELIZA-Smalltalk) implements the classic ELIZA chatbot in Smalltalk.
 - [Blockchain-Racket](https://github.com/brackendev/Blockchain-Racket) implements a cryptocurrency with peer-to-peer networking and smart contracts.
