@@ -12,6 +12,10 @@ Director of Product, Frontend, and Mobile Development at [Discotech](https://dis
 
 I joined [Discotech](https://discotech.me) as its first non-founder employee and now lead product, frontend, and mobile development, including the company's nightlife applications for the [web](https://app.discotech.me), [iOS](https://apps.apple.com/us/app/discotech-nightlife/id688089181), and [Android](https://play.google.com/store/apps/details?id=me.discotech). The web application is built with Next.js and deployed on Vercel. The iOS app averages 4.9 stars across more than 12,000 ratings, and the Android app averages 4.9 stars across more than 2,000 reviews.
 
+### Consulting
+
+I provide software development consulting for applications built with C#, F#, and ASP.NET.
+
 ## Open Source
 
 ### Agent Skills for AI Coding Assistants
