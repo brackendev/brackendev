@@ -1,66 +1,55 @@
 # Bracken Spencer
 
-**Mobile App Developer | Software Architect | Open Source Contributor**
+Mobile app developer and software architect. I build consumer iOS and Android apps, and I write developer tooling for AI coding agents, Lisp-family languages, and the Haiku operating system.
 
-[![GitHub followers](https://img.shields.io/github/followers/brackendev?label=Follow&style=social)](https://www.github.com/brackendev)
-[![Mastodon](https://img.shields.io/mastodon/follow/109537120814235921?domain=https%3A%2F%2Fmastodon.cloud&style=social)](https://mastodon.cloud/@brackendev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brackenspencer/)
-[![IMDb](https://img.shields.io/badge/IMDb-Profile-f5c518?style=flat)](https://www.imdb.com/name/nm5532342/)
+[LinkedIn](https://www.linkedin.com/in/brackenspencer/)
 
-## About
+## Current Work
 
-First non-founder employee at [Discotech](https://discotech.me), where I architect and develop the world's #1 nightlife apps: [iOS (4.9★, 12K ratings)](https://apps.apple.com/us/app/discotech-nightlife/id688089181) and [Android (4.9★, 2K ratings)](https://play.google.com/store/apps/details?id=me.discotech).
+I was the first non-founder employee at [Discotech](https://discotech.me), where I architect and develop the company's nightlife apps for [iOS](https://apps.apple.com/us/app/discotech-nightlife/id688089181) (4.9 stars, 12K ratings) and [Android](https://play.google.com/store/apps/details?id=me.discotech) (4.9 stars, 2K ratings).
 
-Creator of [Hollywood Nights](https://hollywoodnights.app), a classic movie streaming platform.
+I also created [Hollywood Nights](https://hollywoodnights.app), a streaming platform for classic movies.
 
-## Featured Projects
+## Agent Skills
 
-### iOS & Swift Development
+These skill packages follow the [Agent Skills](https://agentskills.io) open standard and install with [APM](https://github.com/microsoft/apm) into Claude Code, Codex, Cursor, Copilot, Gemini, and other coding agents.
 
-**[SwiftPlayground-Pharo](https://github.com/brackendev/SwiftPlayground-Pharo)** - Fast Xcode Playgrounds replacement with live environment interoperability and async support
+| Package | Focus |
+|---------|-------|
+| [clojure-skills](https://github.com/brackendev/clojure-skills) | Host-neutral Clojure baseline for `.clj`, `.cljs`, `.cljc`, and `.cljd` files |
+| [clojure-jvm-skills](https://github.com/brackendev/clojure-jvm-skills) | Clojure on the JVM: Java interop, STM, and the Clojure CLI workflow |
+| [clojurescript-skills](https://github.com/brackendev/clojurescript-skills) | ClojureScript: JavaScript interop, externs, and macro stage separation |
+| [clojuredart-skills](https://github.com/brackendev/clojuredart-skills) | ClojureDart on Flutter: Dart interop, type hints, and `cljd.flutter` |
+| [fulcro-skills](https://github.com/brackendev/fulcro-skills) | Fulcro full-stack framework with a Pathom 3 server |
+| [biff-skills](https://github.com/brackendev/biff-skills) | Biff web framework: scaffolding, conventions, and deployment |
+| [code-lenses](https://github.com/brackendev/code-lenses) | Design lenses for review and implementation: grug brain, Tidy First?, Parse Don't Validate, and others |
+| [jsp-skills](https://github.com/brackendev/jsp-skills) | Jumpstart Pro Rails: multi-tenancy, billing, deployment, and upstream synchronization |
 
-**[SeasideSwift](https://github.com/brackendev/SeasideSwift)** - Swift code runner for the web (similar to Repl.it's implementation)
-**[Readability Libraries](https://github.com/brackendev/Readability-Swift)** - English readability analysis for [Swift](https://github.com/brackendev/Readability-Swift) and [Objective-C](https://github.com/brackendev/Readability-Objective-C)
+## Haiku Operating System
 
-**[iOS Resolution Independence](https://github.com/brackendev/iOS-Resolution-Independence-Swift)** - Future-proof iOS projects with vector graphics ([Swift](https://github.com/brackendev/iOS-Resolution-Independence-Swift) | [Objective-C](https://github.com/brackendev/iOS-Resolution-Independence-Objective-C))
+- [HaikuClip](https://github.com/brackendev/HaikuClip) shares clipboard text between Haiku and macOS.
+- [haiku-control-mcp](https://github.com/brackendev/haiku-control-mcp) is an MCP server that runs commands, transfers files, and automates the GUI on a Haiku machine.
+- [haiku-macos-dev](https://github.com/brackendev/haiku-macos-dev) documents running Haiku in QEMU on macOS and includes a Babashka launcher for UTM virtual machines.
+- [haiku-lisp-dev](https://github.com/brackendev/haiku-lisp-dev) compares GUI options for Lisp dialects on Haiku, with runnable examples for ten implementations.
 
-### AI & Machine Learning
+## Developer Tools
 
-**[OpenAI-Pharo](https://github.com/brackendev/OpenAI-Pharo)** - Professional OpenAI playground with chatbot management, image generation, and auto-documentation
+[dry4dart](https://github.com/brackendev/dry4dart) finds candidate duplicate Dart code using structural fingerprints and Jaccard similarity. It reports text or JSON and can fail a continuous integration build when it finds duplicates.
 
-**[scikit-learn-Hy](https://github.com/brackendev/scikit-learn-Hy)** - Machine learning with scikit-learn and Hy (Lisp in Python)
+## Earlier Projects
 
-**[ELIZA-Smalltalk](https://github.com/brackendev/ELIZA-Smalltalk)** - Natural language processing implementation in Smalltalk
-
-### Developer Tools
-
-**[GistBrowser-Pharo](https://github.com/brackendev/GistBrowser-Pharo)** - Complete Gist management tool with browser, editor, and Playground integration
-
-**[Gravatar Demos](https://github.com/brackendev?tab=repositories&q=GravatarDemo)** - Multi-language implementations for [Clojure](https://github.com/brackendev/GravatarDemo-Clojure), [F#](https://github.com/brackendev/GravatarDemo-FSharp), [Pharo](https://github.com/brackendev/GravatarDemo-Pharo), [Racket](https://github.com/brackendev/GravatarDemo-Racket), and more
-### Other Notable Projects
-
-**[Blockchain-Racket](https://github.com/brackendev/Blockchain-Racket)** - Cryptocurrency implementation with P2P networking and smart contracts
-
-**[markdown-html](https://github.com/brackendev/markdown-html)** - Markdown↔HTML converter in ClojureScript/React. [Live Demo](https://markdown-html.netlify.app/)
-
-**[TwitterSDK-Pharo](https://github.com/brackendev/TwitterSDK-Pharo)** - Twitter API integration for Pharo
-
-**[RSSTools-Pharo](https://github.com/brackendev/RSSTools-Pharo)** - RSS feed processing with Fever API support
+- [SwiftPlayground-Pharo](https://github.com/brackendev/SwiftPlayground-Pharo), [OpenAI-Pharo](https://github.com/brackendev/OpenAI-Pharo), and [GistBrowser-Pharo](https://github.com/brackendev/GistBrowser-Pharo) are Pharo tools for running Swift code, working with the OpenAI API, and managing Gists.
+- [ELIZA-Smalltalk](https://github.com/brackendev/ELIZA-Smalltalk) implements the classic ELIZA chatbot in Smalltalk.
+- [Blockchain-Racket](https://github.com/brackendev/Blockchain-Racket) implements a cryptocurrency with peer-to-peer networking and smart contracts.
+- [scikit-learn-Hy](https://github.com/brackendev/scikit-learn-Hy) demonstrates machine learning with scikit-learn and Hy, a Lisp that runs on Python.
+- [markdown-html](https://github.com/brackendev/markdown-html) converts between Markdown and HTML in ClojureScript and React ([live demo](https://markdown-html.netlify.app/)).
 
 ## Technical Stack
 
-**Languages:** Swift, Objective-C, Dart, Java, Kotlin, Clojure, Python, JavaScript
+**Languages:** Swift, Objective-C, Dart, Kotlin, Java, Clojure, ClojureScript, C++, Python, JavaScript, Smalltalk, Racket
 
 **Mobile:** iOS (UIKit, SwiftUI), Android, Flutter, React Native
 
 **Backend:** Node.js, Clojure, REST APIs, GraphQL
 
-## Quick Links
-
-- [All Repositories](https://github.com/brackendev?tab=repositories&type=source)
-- [Gists](https://gist.github.com/brackendev)
-- [Website](https://brackendev.github.io)
-
----
-
-*Building software that matters, one commit at a time.*
+See [all repositories](https://github.com/brackendev?tab=repositories&type=source) and [Gists](https://gist.github.com/brackendev).
