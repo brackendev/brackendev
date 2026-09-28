@@ -66,7 +66,7 @@ These packages give AI coding assistants language- and framework-specific guidan
 | Area | Technologies |
 |------|--------------|
 | Languages | Swift, Objective-C, Dart, Kotlin, Java, C#, F#, Clojure, ClojureScript, C++, Python, JavaScript, TypeScript, Smalltalk, Racket |
-| Web | Next.js, React, TypeScript, Tailwind CSS, Vercel |
+| Web | Next.js, React, TypeScript, htmx, Tailwind CSS, Vercel |
 | Mobile | iOS (UIKit, SwiftUI), Android, Flutter, React Native |
 | Backend | Node.js, ASP.NET, Clojure, REST APIs, GraphQL |
 | Testing | Jest, Playwright |
